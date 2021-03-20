@@ -1,0 +1,28 @@
+*{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+body{
+	font-family: Comic Sans MS;
+	font-style: ;
+	background-color: #DB9D33;
+}
+h1{
+	color: #5C4215;
+}
+h3{
+	margin-left: 50px;
+}
+img{
+	margin-left: 75px;
+}
+.centrar-listas {
+			text-align: center;
+		}
+.centrar-listas ul,
+.centrar-listas ol {
+	text-align: left;
+	display: inline-block; 
+}
